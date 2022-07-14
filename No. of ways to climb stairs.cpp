@@ -19,6 +19,7 @@ int main(){
     calculateWays(5);
 }
 /*
+Number of ways to climb up 20 stairs is: 1458
 
 Number of ways to climb up 5 stairs is: 6
 */
